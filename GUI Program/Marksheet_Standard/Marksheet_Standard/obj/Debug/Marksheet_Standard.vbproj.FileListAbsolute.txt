@@ -1,0 +1,30 @@
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.frmStud.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.Resources.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.pdb
+E:\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.exe
+E:\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.pdb
+E:\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.xml
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\ResolveAssemblyReference.cache
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.frmStud.resources
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.Resources.resources
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.vbproj.GenerateResource.Cache
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.exe
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.xml
+E:\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.pdb
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.exe
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.pdb
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\bin\Debug\Marksheet_Standard.xml
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.frmStud.resources
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.Resources.resources
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.exe
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.xml
+D:\MCAII\STLAB\GUI\Marksheet_Standard\Marksheet_Standard\obj\Debug\Marksheet_Standard.pdb

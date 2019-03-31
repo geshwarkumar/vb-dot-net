@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Combobox">
+</Property><Property Name="Solution File" Value="E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Combobox.sln">
+</Property><Property Name="User Options File" Value="E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Combobox.suo">
+</Property><Property Name="Date" Value="11 October 2016">
+</Property><Property Name="Time" Value="09:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Combobox.sln" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Combobox.suo" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox.suo">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\Combobox.vbproj" Description="Project file successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\Combobox.vbproj">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\date.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\date.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\date.Designer.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\date.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Application.Designer.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Application.myapp" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Settings.settings" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\date.resx" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\date.resx">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\My Project\Resources.resx" Description="File successfully backed up as E:\MCA\2nd sem\STLAB-II\GUI prg\Combobox\Backup\Combobox\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\Combobox.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Combobox" Source="Combobox\Combobox.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Combobox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Combobox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Combobox" Source="Combobox\Combobox.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

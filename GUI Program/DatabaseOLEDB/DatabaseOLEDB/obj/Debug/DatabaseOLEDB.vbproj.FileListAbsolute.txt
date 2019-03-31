@@ -1,0 +1,10 @@
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\DatabaseOLEDB.exe
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\DatabaseOLEDB.xml
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\DatabaseOLEDB.pdb
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\bin\Debug\DatabaseOLEDB.exe
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\bin\Debug\DatabaseOLEDB.pdb
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\bin\Debug\DatabaseOLEDB.xml
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\WindowsApplication1.Form1.resources
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\WindowsApplication1.Resources.resources
+D:\MCAII\STLAB\GUI\DatabaseOLEDB\DatabaseOLEDB\obj\Debug\DatabaseOLEDB.vbproj.GenerateResource.Cache

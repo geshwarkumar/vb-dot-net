@@ -1,0 +1,19 @@
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\bin\Debug\Pattern.exe
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\bin\Debug\Pattern.pdb
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\bin\Debug\Pattern.xml
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\Pattern.Resources.resources
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\Pattern.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\Pattern.exe
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\Pattern.xml
+F:\MCA\2nd sem\STLAB-II\Pattern\Pattern\obj\Debug\Pattern.pdb
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\bin\Debug\Pattern.exe
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\bin\Debug\Pattern.pdb
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\bin\Debug\Pattern.xml
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.vbprojAssemblyReference.cache
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.Resources.resources
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.vbproj.GenerateResource.cache
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.vbproj.CoreCompileInputs.cache
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.exe
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.xml
+G:\Study Material\Programming Concepts\VB.NET\Programs\Console Prg\Pattern\Pattern\obj\Debug\Pattern.pdb

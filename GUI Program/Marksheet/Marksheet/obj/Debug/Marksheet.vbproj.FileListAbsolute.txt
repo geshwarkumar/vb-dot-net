@@ -1,0 +1,23 @@
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.xml
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.Stud.resources
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.Resources.resources
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.xml
+D:\MCAII\STLAB\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.xml
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
+E:\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+E:\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+E:\GUI\Marksheet\Marksheet\bin\Debug\Marksheet.xml
+E:\GUI\Marksheet\Marksheet\obj\Debug\ResolveAssemblyReference.cache
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.Stud.resources
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.Resources.resources
+E:\GUI\Marksheet\Marksheet\obj\Debug\Marksheet.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet\Marksheet\obj\Debug\Marksheet.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Marksheet\Marksheet\obj\Debug\Marksheet.pdb

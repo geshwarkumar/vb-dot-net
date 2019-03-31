@@ -1,0 +1,18 @@
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\Connectivity.Login.resources
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\Connectivity.OLEDB.resources
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\Connectivity.Resources.resources
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\Connectivity.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\GUI\Connectivity\Connectivity\obj\Debug\Connectivity.Login1.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\bin\Debug\Connectivity.exe.config
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.Login.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.Login1.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.OLEDB.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.Resources.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\obj\Debug\Connectivity.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\bin\Debug\Connectivity.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\bin\Debug\Connectivity.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity\bin\Debug\Connectivity.xml

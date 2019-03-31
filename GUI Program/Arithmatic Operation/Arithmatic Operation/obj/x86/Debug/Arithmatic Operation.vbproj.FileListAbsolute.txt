@@ -1,0 +1,17 @@
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.exe
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.pdb
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.xml
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic_Operation.Form1.resources
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic_Operation.Resources.resources
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.vbproj.GenerateResource.Cache
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.exe
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.xml
+F:\BIT WORK\semester_2\ST LAB\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic_Operation.Form1.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic_Operation.Arith_Short.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic_Operation.Resources.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Arithmatic Operation\Arithmatic Operation\obj\x86\Debug\Arithmatic Operation.vbproj.GenerateResource.Cache

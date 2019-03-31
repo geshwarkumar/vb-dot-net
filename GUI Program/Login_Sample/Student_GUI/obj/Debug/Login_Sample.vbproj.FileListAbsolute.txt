@@ -1,0 +1,10 @@
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\bin\Debug\student_GUI.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\bin\Debug\student_GUI.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\bin\Debug\student_GUI.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.Login.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.Resources.resources
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\Login_Sample.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.pdb

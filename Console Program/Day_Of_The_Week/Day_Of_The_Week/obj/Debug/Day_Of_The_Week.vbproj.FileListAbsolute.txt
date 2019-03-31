@@ -1,0 +1,18 @@
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.exe
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.pdb
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.xml
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.Resources.resources
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.exe
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.xml
+D:\MCAII\STLAB\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.pdb
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.exe
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.xml
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.pdb
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.exe
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.pdb
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\bin\Debug\Day_Of_The_Week.xml
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.Resources.resources
+F:\MCA\2nd sem\STLAB-II\Day_Of_The_Week\Day_Of_The_Week\obj\Debug\Day_Of_The_Week.vbproj.GenerateResource.Cache

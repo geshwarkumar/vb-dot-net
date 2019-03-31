@@ -1,0 +1,14 @@
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.DailogControl.resources
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.Resources.resources
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\GUI\Controls\Controls\bin\Debug\Controls.exe
+D:\MCAII\STLAB\GUI\Controls\Controls\bin\Debug\Controls.pdb
+D:\MCAII\STLAB\GUI\Controls\Controls\bin\Debug\Controls.xml
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.exe
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.xml
+D:\MCAII\STLAB\GUI\Controls\Controls\obj\Debug\Controls.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Controls\Controls\bin\Debug\Controls.exe.config
+F:\MCA\2nd sem\STLAB-II\GUI prg\Controls\Controls\obj\Debug\Controls.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Controls\Controls\obj\Debug\Controls.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Controls\Controls\obj\Debug\Controls.pdb

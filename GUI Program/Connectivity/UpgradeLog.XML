@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Connectivity">
+</Property><Property Name="Solution File" Value="F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity.sln">
+</Property><Property Name="User Options File" Value="F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Connectivity.suo">
+</Property><Property Name="Date" Value="Thursday, April 7, 2016">
+</Property><Property Name="Time" Value="7:39 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Connectivity.sln" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Connectivity.suo" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity.suo">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Connectivity.vbproj" Description="Project file successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Connectivity.vbproj">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login1.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login1.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login1.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\OLEDB.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\OLEDB.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\OLEDB.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\OLEDB.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Application.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Resources.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Settings.Designer.vb" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Application.myapp" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Settings.settings" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login.resx" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login.resx">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Login1.resx" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\Login1.resx">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\OLEDB.resx" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\OLEDB.resx">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\My Project\Resources.resx" Description="File successfully backed up as F:\MCA\2nd sem\STLAB-II\GUI prg\Connectivity\Backup\Connectivity\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Connectivity.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Connectivity" Source="Connectivity\Connectivity.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Connectivity.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Connectivity.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Connectivity" Source="Connectivity\Connectivity.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

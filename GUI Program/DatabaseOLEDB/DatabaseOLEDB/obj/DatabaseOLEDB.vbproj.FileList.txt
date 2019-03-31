@@ -1,0 +1,10 @@
+bin\Debug\DatabaseOLEDB.exe
+bin\Debug\DatabaseOLEDB.pdb
+bin\Debug\DatabaseOLEDB.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\DatabaseOLEDB.vbproj.GenerateResource.Cache
+obj\Debug\DatabaseOLEDB.exe
+obj\Debug\DatabaseOLEDB.xml
+obj\Debug\DatabaseOLEDB.pdb

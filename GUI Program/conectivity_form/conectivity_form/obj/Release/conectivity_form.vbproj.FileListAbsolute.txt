@@ -1,0 +1,11 @@
+D:\Nupendra\conectivity_form\conectivity_form\bin\Release\conectivity_form.exe
+D:\Nupendra\conectivity_form\conectivity_form\bin\Release\conectivity_form.pdb
+D:\Nupendra\conectivity_form\conectivity_form\bin\Release\conectivity_form.xml
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\ResolveAssemblyReference.cache
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity.Connectivity_Form.resources
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity.Login_form.resources
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity.Resources.resources
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity_form.vbproj.GenerateResource.Cache
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity_form.exe
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity_form.xml
+D:\Nupendra\conectivity_form\conectivity_form\obj\Release\conectivity_form.pdb

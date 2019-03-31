@@ -1,0 +1,15 @@
+D:\MCAII\STLAB\Strings\Strings\bin\Debug\Strings.exe
+D:\MCAII\STLAB\Strings\Strings\bin\Debug\Strings.pdb
+D:\MCAII\STLAB\Strings\Strings\bin\Debug\Strings.xml
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\Strings.Resources.resources
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\Strings.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\Strings.exe
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\Strings.xml
+D:\MCAII\STLAB\Strings\Strings\obj\Debug\Strings.pdb
+F:\MCA\2nd sem\STLAB-II\Strings\Strings\obj\Debug\Strings.exe
+F:\MCA\2nd sem\STLAB-II\Strings\Strings\obj\Debug\Strings.xml
+F:\MCA\2nd sem\STLAB-II\Strings\Strings\obj\Debug\Strings.pdb
+F:\MCA\2nd sem\STLAB-II\Console Prg\Strings\Strings\obj\Debug\Strings.exe
+F:\MCA\2nd sem\STLAB-II\Console Prg\Strings\Strings\obj\Debug\Strings.xml
+F:\MCA\2nd sem\STLAB-II\Console Prg\Strings\Strings\obj\Debug\Strings.pdb

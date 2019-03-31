@@ -1,0 +1,9 @@
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\bin\Debug\HelloWord.xml
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\HelloWord.Resources.resources
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\HelloWord.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\HelloWord.xml
+F:\MCA\2nd sem\STLAB-II\HelloWord\HelloWord\obj\Debug\HelloWord.pdb

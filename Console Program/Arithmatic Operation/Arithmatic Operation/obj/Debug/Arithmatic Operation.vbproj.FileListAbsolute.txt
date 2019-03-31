@@ -1,0 +1,9 @@
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.exe
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.pdb
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\bin\Debug\Arithmatic Operation.xml
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\Arithmatic_Operation.Resources.resources
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\Arithmatic Operation.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\Arithmatic Operation.exe
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\Arithmatic Operation.xml
+F:\MCA\2nd sem\STLAB-II\Arithmatic Operation\Arithmatic Operation\obj\Debug\Arithmatic Operation.pdb

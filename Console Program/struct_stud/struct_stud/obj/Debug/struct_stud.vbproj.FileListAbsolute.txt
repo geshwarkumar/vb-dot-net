@@ -1,0 +1,21 @@
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\struct_stud.Resources.resources
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\struct_stud.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\struct_stud\struct_stud\bin\Debug\struct_stud.exe
+D:\MCAII\STLAB\struct_stud\struct_stud\bin\Debug\struct_stud.pdb
+D:\MCAII\STLAB\struct_stud\struct_stud\bin\Debug\struct_stud.xml
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\struct_stud.exe
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\struct_stud.xml
+D:\MCAII\STLAB\struct_stud\struct_stud\obj\Debug\struct_stud.pdb
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\struct_stud.exe
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\struct_stud.xml
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\struct_stud.pdb
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\bin\Debug\struct_stud.exe
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\bin\Debug\struct_stud.pdb
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\bin\Debug\struct_stud.xml
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\ResolveAssemblyReference.cache
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\struct_stud.Resources.resources
+F:\MCA\2nd sem\STLAB-II\struct_stud\struct_stud\obj\Debug\struct_stud.vbproj.GenerateResource.Cache
+F:\MCA\2nd sem\STLAB-II\Console Prg\struct_stud\struct_stud\obj\Debug\struct_stud.exe
+F:\MCA\2nd sem\STLAB-II\Console Prg\struct_stud\struct_stud\obj\Debug\struct_stud.xml
+F:\MCA\2nd sem\STLAB-II\Console Prg\struct_stud\struct_stud\obj\Debug\struct_stud.pdb

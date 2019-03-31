@@ -1,0 +1,15 @@
+D:\MCAII\STLAB\structure\structure\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\structure\structure\obj\Debug\structure.Resources.resources
+D:\MCAII\STLAB\structure\structure\obj\Debug\structure.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\structure\structure\bin\Debug\structure.exe
+D:\MCAII\STLAB\structure\structure\bin\Debug\structure.pdb
+D:\MCAII\STLAB\structure\structure\bin\Debug\structure.xml
+D:\MCAII\STLAB\structure\structure\obj\Debug\structure.exe
+D:\MCAII\STLAB\structure\structure\obj\Debug\structure.xml
+D:\MCAII\STLAB\structure\structure\obj\Debug\structure.pdb
+F:\MCA\2nd sem\STLAB-II\structure\structure\obj\Debug\structure.exe
+F:\MCA\2nd sem\STLAB-II\structure\structure\obj\Debug\structure.xml
+F:\MCA\2nd sem\STLAB-II\structure\structure\obj\Debug\structure.pdb
+F:\MCA\2nd sem\STLAB-II\Console Prg\structure\structure\obj\Debug\structure.exe
+F:\MCA\2nd sem\STLAB-II\Console Prg\structure\structure\obj\Debug\structure.xml
+F:\MCA\2nd sem\STLAB-II\Console Prg\structure\structure\obj\Debug\structure.pdb

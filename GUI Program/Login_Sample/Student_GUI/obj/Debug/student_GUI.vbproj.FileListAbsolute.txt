@@ -1,0 +1,16 @@
+D:\MCAII\STLAB\student_GUI\student_GUI\bin\Debug\student_GUI.exe
+D:\MCAII\STLAB\student_GUI\student_GUI\bin\Debug\student_GUI.pdb
+D:\MCAII\STLAB\student_GUI\student_GUI\bin\Debug\student_GUI.xml
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\ResolveAssemblyReference.cache
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.Login.resources
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.Resources.resources
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.vbproj.GenerateResource.Cache
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.exe
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.xml
+D:\MCAII\STLAB\student_GUI\student_GUI\obj\Debug\student_GUI.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\student_GUI\student_GUI\obj\Debug\student_GUI.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\student_GUI\student_GUI\obj\Debug\student_GUI.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\student_GUI\student_GUI\obj\Debug\student_GUI.pdb
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.exe
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.xml
+F:\MCA\2nd sem\STLAB-II\GUI prg\Login_Sample\student_GUI\obj\Debug\student_GUI.pdb
